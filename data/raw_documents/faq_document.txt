@@ -1,0 +1,243 @@
+================================================================================
+                    TECHCORP FREQUENTLY ASKED QUESTIONS
+                           Employee FAQ Document
+================================================================================
+
+Last Updated: January 2024
+
+This document contains answers to the most commonly asked questions by 
+TechCorp employees. If your question isn't answered here, please contact 
+HR at hr@techcorp.com.
+
+
+================================================================================
+GENERAL EMPLOYMENT QUESTIONS
+================================================================================
+
+Q: What are the standard working hours at TechCorp?
+A: Our standard working hours are 9:00 AM to 6:00 PM, Monday through Friday, 
+   with a one-hour lunch break. However, we offer flexible scheduling around 
+   core hours (10 AM - 4 PM) when all employees should be available.
+
+Q: Can I work remotely?
+A: Yes! We have a hybrid work model. The standard arrangement is 3 days in the 
+   office (Tuesday, Wednesday, Thursday) and 2 days remote (Monday, Friday). 
+   Full-time remote work requires VP-level approval and is evaluated case by case.
+
+Q: Is there a probationary period for new employees?
+A: Yes, there is a 90-day probationary period for all new hires. During this time, 
+   you'll have regular check-ins with your manager. The probation period may be 
+   extended up to 180 days if additional time is needed.
+
+Q: How do I request a change in my work schedule?
+A: Submit a request through the HR portal or speak with your manager directly. 
+   Flexible scheduling, compressed work weeks, and adjusted hours are available 
+   with manager approval.
+
+
+================================================================================
+TIME OFF & LEAVE QUESTIONS
+================================================================================
+
+Q: How many vacation days do I get?
+A: Vacation days are based on your tenure:
+   - Years 0-2: 15 days
+   - Years 3-4: 20 days
+   - Years 5-9: 25 days
+   - Years 10+: 30 days
+
+Q: How far in advance do I need to request vacation?
+A: Please submit vacation requests at least 2 weeks in advance through the HR 
+   portal. For peak times (holidays, summer), earlier requests are recommended.
+
+Q: Can I carry over unused vacation days?
+A: Yes, you can carry over up to 5 unused vacation days to the next calendar year. 
+   Any days beyond 5 will be forfeited on December 31st.
+
+Q: How many sick days do I get?
+A: You receive 10 paid sick days per year. Mental health days are included in 
+   this allowance. A doctor's note is required for absences of 3 or more 
+   consecutive days.
+
+Q: What is the parental leave policy?
+A: We offer generous parental leave:
+   - Primary caregiver: 16 weeks paid leave
+   - Secondary caregiver: 4 weeks paid leave
+   - Adoption: Same benefits as biological parents
+   - Gradual return-to-work option available
+
+Q: Do I get paid for jury duty?
+A: Yes, TechCorp provides full pay for jury duty with no limit on duration. 
+   Please provide your jury summons to HR and work when not actively serving.
+
+
+================================================================================
+COMPENSATION & BENEFITS QUESTIONS
+================================================================================
+
+Q: When do we get paid?
+A: TechCorp pays employees bi-weekly (every two weeks) via direct deposit. 
+   Pay stubs are available through the HR portal.
+
+Q: When are salary reviews conducted?
+A: Annual salary reviews occur in December, with merit increases taking effect 
+   in January. Performance and market data determine adjustments.
+
+Q: What is the 401(k) company match?
+A: We match 100% of your contributions up to 4% of your salary. For example, 
+   if you earn $80,000 and contribute 4% ($3,200), we add another $3,200.
+
+Q: When am I eligible for the 401(k)?
+A: You're eligible to participate in the 401(k) after 30 days of employment. 
+   You can start contributing immediately after that.
+
+Q: When does the company match vest?
+A: Your contributions are always 100% vested. The company match vests over 
+   4 years: 25% after year 1, 50% after year 2, 75% after year 3, and 100% 
+   after year 4.
+
+Q: How much does health insurance cost?
+A: Costs vary by plan and coverage level. Employee-only monthly premiums:
+   - PPO Premium: ~$250
+   - HMO Value: ~$150
+   - HDHP: ~$75
+   The company pays 80% of employee premiums and 50% of dependent premiums.
+
+Q: When is open enrollment?
+A: Annual open enrollment is November 1-15. Outside this window, you can only 
+   make changes due to qualifying life events (marriage, birth, etc.).
+
+
+================================================================================
+WORKPLACE POLICIES QUESTIONS
+================================================================================
+
+Q: What is the dress code?
+A: Monday through Thursday is business casual (collared shirts, dress pants, 
+   no jeans). Friday is casual day where jeans and sneakers are permitted. 
+   Client meetings require business formal attire.
+
+Q: Can I bring my own device (BYOD) to work?
+A: Personal devices can connect to guest WiFi only. Company work must be done 
+   on company equipment. Mobile phones can be used for work with IT approval.
+
+Q: How do I expense business costs?
+A: Submit expenses through the expense management system within 30 days. 
+   Receipts are required for expenses over $25. Manager approval is needed 
+   for all expenses, and VP approval for expenses over $500.
+
+Q: How quickly will I be reimbursed for expenses?
+A: After your manager approves the expense (within 3 business days), 
+   reimbursement is processed via direct deposit within 5 business days.
+
+Q: What is the company's policy on working overtime?
+A: Overtime must be pre-approved by your department manager. Non-exempt 
+   employees are paid 1.5x their regular rate for overtime hours.
+
+
+================================================================================
+IT & TECHNOLOGY QUESTIONS
+================================================================================
+
+Q: What equipment will I receive as a new employee?
+A: New employees receive a company laptop on day one. Additional equipment 
+   (external monitor, peripherals) is available upon request through IT.
+
+Q: Can I install personal software on my work computer?
+A: No, installing personal software requires IT approval. Submit a software 
+   request through the IT portal for evaluation.
+
+Q: What do I do if I forget my password?
+A: Use the self-service password reset tool at password.techcorp.internal. 
+   If that fails, contact IT support at it-help@techcorp.com.
+
+Q: Is there a mobile phone stipend?
+A: Employees in roles requiring constant availability receive a $75/month 
+   mobile phone stipend. Check with your manager if your role qualifies.
+
+
+================================================================================
+CAREER DEVELOPMENT QUESTIONS
+================================================================================
+
+Q: Is there a learning budget for employees?
+A: Yes! Every employee has a $2,500 annual learning budget for courses, 
+   certifications, books, and conferences. Purchases under $500 don't 
+   require pre-approval.
+
+Q: Is tuition reimbursement available?
+A: Yes, up to $10,000 per year for approved degree programs that are 
+   job-related. You must achieve a grade of B or better for reimbursement.
+
+Q: How often can I attend conferences?
+A: With manager approval, you can attend 1-2 relevant conferences per year. 
+   The company covers registration, travel, and accommodation.
+
+Q: When are promotion cycles?
+A: Promotions are reviewed in January and July. You must have at least 
+   1 year in your current role and a performance rating of 4 or above.
+
+Q: Is there a mentorship program?
+A: Yes! We have a formal 6-month mentorship program matching employees with 
+   senior mentors. Cross-functional mentoring is encouraged.
+
+
+================================================================================
+HEALTH & WELLNESS QUESTIONS
+================================================================================
+
+Q: Is there a gym at the office?
+A: Yes, headquarters has an on-site fitness center. For other locations, 
+   we provide a $50/month gym membership subsidy.
+
+Q: What mental health resources are available?
+A: We offer an Employee Assistance Program (EAP) with 24/7 support, 6 free 
+   counseling sessions per year, and mental health days as part of sick leave.
+
+Q: Is there an employee wellness program?
+A: Yes! We provide a $500 annual wellness stipend, meditation app subscriptions, 
+   monthly wellness workshops, and stress management seminars.
+
+Q: Are standing desks available?
+A: Standing desks are provided based on medical recommendation. Contact HR 
+   with a doctor's note, or request an ergonomic assessment.
+
+
+================================================================================
+LEAVING THE COMPANY
+================================================================================
+
+Q: What is the notice period for resignation?
+A: We request 2 weeks notice (4 weeks for managers). This allows for proper 
+   knowledge transfer and transition.
+
+Q: Will I be paid for unused vacation when I leave?
+A: Yes, your final paycheck will include payment for unused accrued vacation 
+   days based on your state's requirements.
+
+Q: How do I return company equipment?
+A: During your exit process, you'll return your laptop, badge, keys, and any 
+   other company property to IT. A prepaid shipping label can be provided 
+   for remote employees.
+
+Q: When does my insurance coverage end?
+A: Benefits continue through the end of the month in which your employment 
+   ends. COBRA continuation information will be provided.
+
+
+================================================================================
+STILL HAVE QUESTIONS?
+================================================================================
+
+Contact us through any of these channels:
+
+📧 Email: hr@techcorp.com
+📞 Phone: 1-800-TECHCORP (ext. 1234)
+💬 Slack: #ask-hr channel
+🌐 HR Portal: https://hr.techcorp.internal
+📍 In Person: HR office, 3rd floor
+
+HR Office Hours: Monday-Friday, 9 AM - 5 PM
+Response Time: Within 1 business day for email inquiries
+
+================================================================================

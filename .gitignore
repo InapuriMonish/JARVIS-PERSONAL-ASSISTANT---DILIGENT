@@ -1,0 +1,16 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Processed data
+data/processed/
+
+# Notebooks
+.ipynb_checkpoints/
