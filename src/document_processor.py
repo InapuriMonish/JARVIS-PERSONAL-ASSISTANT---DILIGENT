@@ -11,7 +11,7 @@ from tqdm import tqdm
 # Document loaders
 from PyPDF2 import PdfReader
 from docx import Document
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from src.config import RAW_DOCS_DIR, PROCESSED_DIR, CHUNK_SIZE, CHUNK_OVERLAP
 

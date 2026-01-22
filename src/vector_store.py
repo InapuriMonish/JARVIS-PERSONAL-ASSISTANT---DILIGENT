@@ -73,12 +73,15 @@ class VectorStore:
         
         vectors = []
         for i, (chunk, embedding) in enumerate(zip(chunks, embeddings)):
+            # Sanitize text to remove emojis and non-ASCII characters
+            sanitized_text = chunk["text"][:1000].encode('ascii', 'ignore').decode('ascii')
+            sanitized_source = chunk["source"].encode('ascii', 'ignore').decode('ascii')
             vectors.append({
                 "id": chunk["chunk_id"],
                 "values": embedding,
                 "metadata": {
-                    "text": chunk["text"][:1000],  # Limit metadata size
-                    "source": chunk["source"],
+                    "text": sanitized_text,  # Limit metadata size
+                    "source": sanitized_source,
                     "chunk_index": chunk["chunk_index"]
                 }
             })

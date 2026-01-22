@@ -634,21 +634,23 @@ def main():
             # Chat input
             st.markdown("---")
             
-            col_input, col_btn = st.columns([5, 1])
+            # Use a form to handle input properly and prevent duplicate submissions
+            with st.form(key="chat_form", clear_on_submit=True):
+                col_input, col_btn = st.columns([5, 1])
+                
+                with col_input:
+                    user_input = st.text_input(
+                        "Ask a question",
+                        placeholder=f"Ask me anything, {st.session_state.user_name}...",
+                        key="chat_input",
+                        label_visibility="collapsed"
+                    )
+                
+                with col_btn:
+                    send_clicked = st.form_submit_button("Send 🚀", use_container_width=True)
             
-            with col_input:
-                user_input = st.text_input(
-                    "Ask a question",
-                    placeholder=f"Ask me anything, {st.session_state.user_name}...",
-                    key="chat_input",
-                    label_visibility="collapsed"
-                )
-            
-            with col_btn:
-                send_clicked = st.button("Send 🚀", use_container_width=True)
-            
-            # Process user input
-            if (send_clicked or user_input) and user_input and rag_engine:
+            # Process user input - only when form is submitted
+            if send_clicked and user_input and rag_engine:
                 # Add user message
                 st.session_state.messages.append({
                     "role": "user",
@@ -660,7 +662,7 @@ def main():
                         result = rag_engine.query(user_input, top_k=3)
                         
                         # Check if no results found or low relevance
-                        if result.get('no_results', False) or (result.get('sources') and all(s.get('score', 0) < 0.3 for s in result.get('sources', []))):
+                        if result.get('no_results', False) or (result.get('sources') and all(s.get('score', 0) < 0.15 for s in result.get('sources', []))):
                             answer = generate_personalized_not_found_message(st.session_state.user_name)
                             sources = []
                         else:

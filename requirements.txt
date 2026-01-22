@@ -13,7 +13,7 @@ sentence-transformers>=2.2.2
 torch>=2.0.0
 
 # Vector Database
-pinecone-client>=3.0.0
+pinecone>=8.0.0
 
 # LLM - Ollama for local LLM (Qwen 2.5)
 ollama>=0.1.6
